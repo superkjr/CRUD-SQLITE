@@ -1,2 +1,1 @@
-INTEGRANTES: Kevin Ricardo Torres Muñoz
-             Melvin Antonio Angel Lopez
+INTEGRANTES: Kevin Ricardo Torres Muñoz y Melvin Antonio Angel Lopez SIS21A
